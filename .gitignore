@@ -1,0 +1,34 @@
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build and debug files
+*.dSYM/
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Compiled C++ binaries in module folders
+03_primitives/userinput
+03_primitives/modifier
+03_primitives/mystring
+03_primitives/challenge1
+03_primitives/challenge2
+03_primitives/challenge3
+03_primitives/data
+03_primitives/casting
+04_operators/challenge1
+04_operators/challenge2
+04_operators/challenge3
+04_operators/challenge4
+05_conditionals/challenge1
+05_conditionals/challenge2
+05_conditionals/challenge3
+05_conditionals/challenge4
+
+# Editor / IDE directories
+.vscode/
+.idea/
